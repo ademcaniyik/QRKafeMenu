@@ -10,11 +10,10 @@ Bu uygulama ile ürünlerinizi dinamik bir biçimde, kimseye ihtiyaç duymadan d
 1. **Projeyi İndirin:** Projeyi kendi bilgisayarınıza indirin.
 2. **Veritabanı Bağlantısı:** `connection.php` dosyasında bulunan veritabanı bağlantı bilgilerinizi değiştirin.
 3. **Statik İçerikleri Düzenleyin:** 
-    - `index.php` dosyasındaki kategori resimlerini ve logonuzu düzenleyin.
-4. **Ürün Ekleme:** 
-    - `adminpanel.php` adresine giderek işletmenizde bulunan ürünleri ekleyin.
-5. **Güncelleme ve Silme:** 
-    - Ürünleri güncellemek veya silmek için yine aynı sayfayı kullanabilirsiniz.
+    - `menu.php` dosyasındaki kategori resimlerini ve logonuzu düzenleyin.
+4. **Ürün Ekleme Güncelleme ve Silme:** 
+    - `urun_duzenle.php` adresine giderek işletmenizde bulunan ürünleri ekleyin, güncelleyin ve silin.
+
 
 ## QR Kod Oluşturma
 
