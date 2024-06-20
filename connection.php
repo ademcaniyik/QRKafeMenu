@@ -1,7 +1,7 @@
 <?php
-$serverName = "DESKTOP-290K8CA\SQLEXPRESS"; // Sunucu adı
+$serverName = "Server adınızı buraya yazınız"; // Sunucu adı
 $connectionInfo = array(
-    "Database" => "kafe", // Veritabanı adı
+    "Database" => "Veritabanınızın adını buraya yazınız", // Veritabanı adı
     "UID" => "", // Kullanıcı adı
     "PWD" => "" // Parola
 );
